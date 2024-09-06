@@ -37,18 +37,15 @@ To assemble the device yourself, you will need a Sonoff device. Additionally, yo
 - A programmer, such as USB to TTL / PL230
 - A soldering iron and wires
 
-  <img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/flash_gpio2.png" width="500px">
+
+  <img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/flash_gpio4.png" width="500px">
 
 
 Good luck! If you have any questions, don't hesitate to reach out.
 
 
-### Web installer (recommended)
-
-Go to the web installer and follow instructions.
-
-[https://renat2985.github.io/toncoin_payment_sonoff/](https://renat2985.github.io/toncoin_payment_sonoff/)
-
+# Web installer (recommended)
+## [https://renat2985.github.io/toncoin_payment_sonoff/](https://renat2985.github.io/toncoin_payment_sonoff/)
 
 
 # For Advanced Users: Firmware Instructions via Programmer
