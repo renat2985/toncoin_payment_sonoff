@@ -48,8 +48,7 @@ Good luck! If you have any questions, don't hesitate to reach out.
 ## [https://renat2985.github.io/toncoin_payment_sonoff/](https://renat2985.github.io/toncoin_payment_sonoff/)
 
 
-# For Advanced Users: Firmware Instructions via Programmer
-
+### For Advanced Users: Firmware Instructions via Programmer
 ### Specification .bin files
 ```
   -  Module: Generic ESP8266 Module
