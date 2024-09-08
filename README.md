@@ -49,7 +49,7 @@ Good luck! If you have any questions, don't hesitate to reach out.
 
 
 ### For Advanced Users: Firmware Instructions via Programmer
-### Specification .bin files
+### Specification [toncoin_payment_sonoff.ino.bin](https://github.com/renat2985/toncoin_payment_sonoff/raw/main/build/esp8266.esp8266.generic/toncoin_payment_sonoff.ino.bin) files
 ```
   -  Module: Generic ESP8266 Module
   -  Flash Size: 1M
@@ -58,8 +58,6 @@ Good luck! If you have any questions, don't hesitate to reach out.
   -  Flash Frequency: 40Mhz
   -  Upload Speed: 921600
 ```
-
-## [toncoin_payment_sonoff.ino.bin](https://github.com/renat2985/toncoin_payment_sonoff/raw/main/build/esp8266.esp8266.generic/toncoin_payment_sonoff.ino.bin)
 
 ### NodeMCU Flasher
 https://github.com/nodemcu/nodemcu-flasher

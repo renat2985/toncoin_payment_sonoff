@@ -52,7 +52,7 @@
 
 
 ### Для совсем профи инструкция для прошивки через программатор
-### Specification .bin files
+### Specification [toncoin_payment_sonoff.ino.bin](https://github.com/renat2985/toncoin_payment_sonoff/raw/main/build/esp8266.esp8266.generic/toncoin_payment_sonoff.ino.bin) files
 ```
   -  Module: Generic ESP8266 Module
   -  Flash Size: 1M
@@ -61,8 +61,6 @@
   -  Flash Frequency: 40Mhz
   -  Upload Speed: 921600
 ```
-
-## [toncoin_payment_sonoff.ino.bin](https://github.com/renat2985/toncoin_payment_sonoff/raw/main/build/esp8266.esp8266.generic/toncoin_payment_sonoff.ino.bin)
 
 ### NodeMCU Flasher
 https://github.com/nodemcu/nodemcu-flasher
