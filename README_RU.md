@@ -5,12 +5,12 @@
 
 Вы можете собрать устройство самостоятельно или попросить это сделать меня для вас. Для заказа готового устройства свяжитесь через [Telegram](https://t.me/ESPiotDevice), Skype: renat2985
 
-<img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/intro.png">
+<img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/intro2.png">
 
 ### Основные функции:
 
 1. **Подключение устройства:**
-   - При первом включении или если устройство не может найти роутер, оно создаст точку доступа с именем "TonCoin payment".
+   - При первом включении, если устройство не находит роутер, или если вы нажмёте кнопку на самом ESP, оно создаст точку доступа с именем “TonCoin payments”.
      
      <img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/WiFi.png" width="200px">
    - Подключитесь к этой точке (пароль не требуется) и откройте браузер, где введите http://192.168.4.1. Обычно после подключения к Wi-Fi автоматически откроется Activ portal, который перенаправит вас на нужную страницу.

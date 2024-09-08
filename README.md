@@ -6,12 +6,12 @@ A convenient and fast way to implement paid services using the TonCoin cryptocur
 
 You can assemble the device yourself or ask me to build it for you. To order a ready-made device, contact me via [Telegram](https://t.me/ESPiotDevice), Skype: renat2985.
 
-<img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/intro.png">
+<img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/intro2.png">
 
 ### Key Features:
 
 1. **Device Connection:**
-   - On first power-up, or if the device cannot find the router, it will create an access point named "TonCoin payment."
+   - When first powered on, if the device can’t find the router or if you press the button on the ESP itself, it will create an access point named “TonCoin payments.”
      
      <img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/WiFi.png" width="200px">
    - Connect to this access point (no password needed) and open a browser, then enter http://192.168.4.1. Usually, after connecting to Wi-Fi, the Captive portal will automatically open and redirect you to the desired page.
