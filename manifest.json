@@ -8,12 +8,6 @@
       "parts": [
         { "path": "./build/esp8266.esp8266.generic/toncoin_payment_sonoff.ino.bin", "offset": 0 }
       ]
-    },
-    {
-      "chipFamily": "ESP8285",
-      "parts": [
-        { "path": "./build/esp8266.esp8266.esp8285/toncoin_payment_sonoff.ino.bin", "offset": 0 }
-      ]
     }
   ]
 }
