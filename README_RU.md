@@ -53,12 +53,12 @@
 
 
 ### Для совсем профи инструкция для прошивки через программатор
-### Specification [toncoin_payment_sonoff.ino.bin](https://github.com/renat2985/toncoin_payment_sonoff/raw/main/build/esp8266.esp8266.generic/toncoin_payment_sonoff.ino.bin) files
+### Specification [ESP8266.bin](https://github.com/renat2985/toncoin_payment_sonoff/raw/main/build/esp8266.esp8266.generic/toncoin_payment_sonoff.ino.bin) / [ESP8285.bin](https://github.com/renat2985/toncoin_payment_sonoff/raw/main/build/esp8266.esp8266.esp8285/toncoin_payment_sonoff.ino.bin) files
 ```
   -  Module: Generic ESP8266 Module
   -  Flash Size: 1M
   -  CPU Frequency: 80Mhz
-  -  Flash Mode: QIO
+  -  Flash Mode: DOUT
   -  Flash Frequency: 40Mhz
   -  Upload Speed: 921600
 ```
