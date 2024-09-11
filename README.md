@@ -34,9 +34,10 @@ You can assemble the device yourself or ask to build it for you. To order a read
 
 ### Instructions for Self-Assembly:
 
-To assemble the device yourself, you will need a Sonoff device. Additionally, you will need:
+For self-assembly you will need any of these devices: SONOFF OLD, [SONOFF RF R2, SONOFF BASICR2](https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/flash_gpio_r2.png), [SONOFF Mini R1, SONOFF Mini R2](https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/flash_gpio_mini_r2.png).
 - A programmer, such as USB to TTL / PL230
 - A soldering iron and wires
+
 
 
   <img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/flash_gpio4.png" width="500px">

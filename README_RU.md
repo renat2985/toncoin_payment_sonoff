@@ -36,7 +36,7 @@
 
 ### Инструкции для самостоятельной сборки:
 
-Для самостоятельной сборки устройства вам потребуется устойство sonoff. 
+Для самостоятельной сборки вам потребуется любое из этих устройств: SONOFF OLD, [SONOFF RF R2, SONOFF BASICR2](https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/flash_gpio_r2.png), [SONOFF Mini R1, SONOFF Mini R2](https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/flash_gpio_mini_r2.png).
 Дополнительно вам понадобятся:
 - Программатор, например USB to TTL / PL230
 - Паяльник и провода
