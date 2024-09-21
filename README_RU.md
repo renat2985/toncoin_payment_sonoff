@@ -29,8 +29,10 @@
    - **Service Currency Price:** Укажите цену в выбранной валюте, которую клиент должен оплатить.
    - **Payment Tolerance:** В этой ячейке указывается допустимая погрешность в цене. Поскольку стоимость Ton постоянно колеблется, здесь нужно указать диапазон отклонений (одной цифрой), который вы готовы принять при оплате.
    - **Relay Work Time:** Укажите, на сколько секунд должно включиться реле. Это может быть от одной секунды (например, для имитации нажатия кнопки) до нескольких минут или часов.
+
+   _Обратите внимание, если начал мигать синий светодиод — это сигнал, что что-то пошло не так. Возможно, вы неправильно написали свой Toncoin кошелек. Также это может указывать на неправильный API от CoinMarketCap. Если вы используете стандартный API (не меняли его), возможно, он превысил лимит, и вам нужно сделать собственный [CoinMarketCap API](https://coinmarketcap.com/api/). Плохой сигнал WiFi. Еще одна причина может быть в том, что закончился пробный период программного обеспечения._
      
-     <img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/APFull.png" width="500px">
+  <img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/APFull.png" width="500px">
 
 
 
@@ -38,7 +40,8 @@
 
 ### Инструкции для самостоятельной сборки:
 
-Для самостоятельной сборки вам потребуется любое из этих устройств: SONOFF OLD, [SONOFF RF R2, SONOFF BASICR2](https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/flash_gpio_r2.png), [SONOFF Mini R1, SONOFF Mini R2](https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/flash_gpio_mini_r2.png).
+Для самостоятельной сборки вам потребуется любое из этих устройств: SONOFF OLD, [SONOFF RF R2, SONOFF BASICR2](https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/flash_gpio_r2.png), [SONOFF Mini R1, SONOFF Mini R2](https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/flash_gpio_mini_r2.png), [SSONOFF S26, SONOFF S26R2](https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/flash_gpio_s26.jpg).
+
 Дополнительно вам понадобятся:
 - Программатор, например USB to TTL / PL230
 - Паяльник и провода
