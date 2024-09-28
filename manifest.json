@@ -17,6 +17,24 @@
         { "path": "./build/esp32.esp32.esp32/boot_app0.bin", "offset": 57344 },
         { "path": "./build/esp32.esp32.esp32/toncoin_payment_sonoff.ino.bin", "offset": 65536 }
       ]
+    },
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        { "path": "./build/esp32.esp32.esp32s3/toncoin_payment_sonoff.ino.bootloader.bin", "offset": 4096 },
+        { "path": "./build/esp32.esp32.esp32s3/toncoin_payment_sonoff.ino.partitions.bin", "offset": 32768 },
+        { "path": "./build/esp32.esp32.esp32s3/boot_app0.bin", "offset": 57344 },
+        { "path": "./build/esp32.esp32.esp32s3/toncoin_payment_sonoff.ino.bin", "offset": 65536 }
+      ]
+    },
+    {
+      "chipFamily": "ESP32-C3",
+      "parts": [
+        { "path": "./build/esp32.esp32.esp32c3/toncoin_payment_sonoff.ino.bootloader.bin", "offset": 4096 },
+        { "path": "./build/esp32.esp32.esp32c3/toncoin_payment_sonoff.ino.partitions.bin", "offset": 32768 },
+        { "path": "./build/esp32.esp32.esp32c3/boot_app0.bin", "offset": 57344 },
+        { "path": "./build/esp32.esp32.esp32c3/toncoin_payment_sonoff.ino.bin", "offset": 65536 }
+      ]
     }
   ]
 }
