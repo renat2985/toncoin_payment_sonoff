@@ -7,7 +7,7 @@
 У нас есть похожий проект с экраном, [посмотри](https://github.com/renat2985/toncoin_payment).
 
 
-[![IMAGE ALT TEXT HERE](https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/intro3.png)](https://www.youtube.com/watch?v=zKdVJmzJNLM&list=PL6NJTNxbvy-LpsI6D_1RM6v5YWDvsm5j4)
+[![IMAGE ALT TEXT HERE](https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/intro4.png)](https://www.youtube.com/watch?v=zKdVJmzJNLM&list=PL6NJTNxbvy-LpsI6D_1RM6v5YWDvsm5j4)
 
 ### Основные функции:
 
