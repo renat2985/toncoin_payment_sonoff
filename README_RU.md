@@ -84,7 +84,7 @@ THR316:21,0,15
 
 ### Specification [ESP32 toncoin_payment_sonoff.ino.bin](https://github.com/renat2985/toncoin_payment_sonoff/raw/main/build/esp32.esp32.esp32/toncoin_payment_sonoff.ino.bin), [ESP32C3 toncoin_payment_sonoff.ino.bin](https://github.com/renat2985/toncoin_payment_sonoff/raw/main/build/esp32.esp32.esp32c3/toncoin_payment_sonoff.ino.bin), [ESP32S3 toncoin_payment_sonoff.ino.bin](https://github.com/renat2985/toncoin_payment_sonoff/raw/main/build/esp32.esp32.esp32s3/toncoin_payment_sonoff.ino.bin) file
 ```
-  { "path": "./build/esp32.esp32.esp32*/toncoin_payment_sonoff.ino.bootloader.bin", "offset": 4096 },
+  { "path": "./build/esp32.esp32.esp32*/toncoin_payment_sonoff.ino.bootloader.bin", "offset": 0 },
   { "path": "./build/esp32.esp32.esp32*/toncoin_payment_sonoff.ino.partitions.bin", "offset": 32768 },
   { "path": "./build/esp32.esp32.esp32*/boot_app0.bin", "offset": 57344 },
   { "path": "./build/esp32.esp32.esp32*/toncoin_payment_sonoff.ino.bin", "offset": 65536 }
