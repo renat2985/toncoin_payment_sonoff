@@ -32,7 +32,7 @@
 
    _Обратите внимание, если начал мигать синий светодиод — это сигнал, что что-то пошло не так. Возможно, вы неправильно написали свой Toncoin кошелек. Также это может указывать на неправильный API от CoinMarketCap. Если вы используете стандартный API (не меняли его), возможно, он превысил лимит, и вам нужно сделать собственный [CoinMarketCap API](https://coinmarketcap.com/api/). Плохой сигнал WiFi. Еще одна причина может быть в том, что закончился пробный период программного обеспечения._
      
-  <img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/APFull.png" width="500px">
+   <img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/APFull.png" width="500px">
 
 
 

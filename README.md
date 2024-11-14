@@ -34,7 +34,7 @@ We have a similar project with a screen, [check it out](https://github.com/renat
 
    _Please note, if the blue LED starts flashing, it is a signal that something went wrong. You might have entered your Toncoin wallet incorrectly. It could also indicate an incorrect CoinMarketCap API. If you are using the standard API (without changes), it may have exceeded the limit, and you might need to create your own CoinMarketCap API. The WiFi signal has disappeared. Another reason could be that the trial period of the software has expired._
      
-  <img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/APFull.png" width="500px">
+   <img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/APFull.png" width="500px">
 
 
 ### Instructions for Self-Assembly:
