@@ -4,8 +4,8 @@
  Удобный и быстрый способ внедрения платных услуг с использованием криптовалюты TonCoin. Процесс простой: Вы открываете любой крипто кошелек, сканируете QR-код (Его можно например распечатать на листике с необходимой суммой), переводите эту указанную сумму, и как только платеж будет получен, реле активируется и включит ваш прибор на заданное вами время. Это может быть любой прибор, от чайника, кофемашины и лампочки до включения электричества в помещение или любом другом месте.
 
 Вы можете собрать устройство самостоятельно или попросить это сделать для вас. Для заказа готового устройства свяжитесь через [Telegram](https://t.me/ESPiotDevice), [Skype](https://skype:renat2985?chat), [Discord](https://discord.com/invite/zaGaDuGe).
-У нас есть похожий проект с экраном, [посмотри](https://github.com/renat2985/toncoin_payment).
 
+У нас есть похожий проект с экраном, [посмотри](https://github.com/renat2985/crypto_payment_touchScreen).
 
 [![IMAGE ALT TEXT HERE](https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/intro4.png)](https://www.youtube.com/watch?v=zKdVJmzJNLM&list=PL6NJTNxbvy-LpsI6D_1RM6v5YWDvsm5j4)
 
@@ -100,6 +100,6 @@ Download Release: [Win32](https://github.com/nodemcu/nodemcu-flasher/blob/master
 
 If you like this project, you can give me a cup of coffee :coffee:
 
-<img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/donate.png" width="700px">
+<img src="https://github.com/renat2985/renat2985/raw/main/donate/donate.png" width="100%">
 
 - PayPal [https://www.paypal.me/RKevrels](https://www.paypal.me/RKevrels/5)
