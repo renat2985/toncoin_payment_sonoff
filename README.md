@@ -32,11 +32,17 @@ We have a similar project with a screen, [check it out](https://github.com/renat
    - **Payment Tolerance:** In this field, specify the acceptable price deviation. Since the Ton price constantly fluctuates, you need to indicate a deviation range (as a single number) that you are willing to accept for payment.
    - **Relay Work Time:** Specify how long the relay should be activated in seconds. This can range from one second (for simulating a button press) to several minutes or hours.
 
-   _Please note, if the blue LED starts flashing, it is a signal that something went wrong. You might have entered your Toncoin wallet incorrectly. It could also indicate an incorrect CoinMarketCap API. If you are using the standard API (without changes), it may have exceeded the limit, and you might need to create your own CoinMarketCap API. The WiFi signal has disappeared. Another reason could be that the trial period of the software has expired._
+      <img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/APFull.png" width="500px">
+
+3. **Reset Settings:**
+      To reset the device to its factory settings, follow these steps:
+      1.	Press the Sonoff button on the device.
+      2.	The device will reboot.
+      3.	After rebooting, a Wi-Fi access point named Crypto Sonoff will appear.
+      The device is now ready for reconfiguration.
+
+_Please note, if the blue LED starts flashing, it is a signal that something went wrong. You might have entered your Toncoin wallet incorrectly. It could also indicate an incorrect CoinMarketCap API. If you are using the standard API (without changes), it may have exceeded the limit, and you might need to create your own CoinMarketCap API. The WiFi signal has disappeared. Another reason could be that the trial period of the software has expired._
      
-   <img src="https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/APFull.png" width="500px">
-
-
 ### Instructions for Self-Assembly:
 
 For self-assembly you will need any of these devices: SONOFF OLD, [SONOFF RF R2, SONOFF BASICR2](https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/flash_gpio_r2.png), [SONOFF Mini R1, SONOFF Mini R2](https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/flash_gpio_mini_r2.png), [SONOFF S26, SONOFF S26R2](https://github.com/renat2985/toncoin_payment_sonoff/blob/main/doc/flash_gpio_s26.jpg).
